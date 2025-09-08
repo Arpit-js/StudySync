@@ -1,1 +1,1 @@
-# Ai-LMS
+# StudySync
